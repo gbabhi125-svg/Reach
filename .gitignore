@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+.next/
+.venv/
+reach_dev.db
+.env
+frontend/apps/*/.env.local
